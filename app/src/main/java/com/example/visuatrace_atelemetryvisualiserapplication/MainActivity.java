@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Page | 19
         a = findViewById(R.id.speedTextView);
         b = findViewById(R.id.accTextView);
         c = findViewById(R.id.rangeTextView);
